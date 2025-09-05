@@ -40,7 +40,7 @@
 ## 🛠 Tecnologias
 
 <p align="center">
-  SAP ABAP • QlikSense • Automation Anywhere • PL/SQL • Python • Java • TensorFlow • AWS
+  SAP ABAP • Python • SQL • PL/SQL • Power BI • Análise de Dados • Treinamento de IA e Análise Preditiva • Modelagem de Dados 
 </p>
 
 ---
