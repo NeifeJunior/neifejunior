@@ -1,7 +1,8 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/capa.png" alt="Banner" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/capa.png" alt="Banner" width="100%" />
 </p>
+
 
 <!-- Nome animado -->
 <p align="left">
