@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/capa.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/capa.png" alt="capa" />
 </p>
 
 ---
