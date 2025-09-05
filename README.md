@@ -5,9 +5,9 @@
 
 
 <!-- Nome animado -->
-<p align="right">
+<p align="left">
   <a href="https://github.com/neifejunior">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=false&vCenter=true&random=false&width=280&lines=Neife+Junior;Seja+bem-vindo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=000080&center=false&vCenter=true&width=300&lines=Neife+Junior;Seja+bem-vindo!" alt="Typing SVG" />
   </a>
 </p>
 
