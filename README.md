@@ -5,6 +5,25 @@ Tenho 17 anos e estudo no *Instituto J&F – GerminareTech*. Atualmente atuo com
 
 Sou apaixonado por tecnologia, inovação e pelo impacto social que soluções digitais podem gerar. Já participei de projetos como **Acolhe** (saúde mental – ExpoTech 2023) e **Leontis** (arte e IA – ExpoTech 2024). Sempre buscando aprender mais e criar soluções com impacto.
 
+
+---
+
+## 📊 Estatísticas
+
+<!-- Card de visualizações de perfil -->
+![Profile Views](https://komarev.com/ghpvc/?username=neifejunior&style=flat)
+
+<!-- Card: GitHub Readme Stats (resumo completo) -->
+![Neife's GitHub stats](https://github-readme-stats.vercel.app/api?username=neifejunior&show_icons=true&theme=dark)
+
+<!-- Card: Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neifejunior&layout=compact&theme=dark)
+
+<!-- Card: Streak (opcional) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neifejunior&theme=dark)
+
+---
+
 ---
 
 ## 🚀 Tecnologias com as quais trabalho
@@ -17,15 +36,15 @@ Sou apaixonado por tecnologia, inovação e pelo impacto social que soluções d
 
 ## 🌟 Projetos em destaque
 
-- **[Leontis](link_do_repositorio)** – App que facilita o acesso ao mundo da arte com IA de reconhecimento de imagens.
-- **[Acolhe](link_do_repositorio)** – App de apoio emocional, criado durante o primeiro ano do ensino médio, alinhado à ODS 11.
+- **[Leontis](https://github.com/leontis2024)** – App que facilita o acesso ao mundo da arte com IA de reconhecimento de imagens.
+- **[Acolhe](https://github.com/Acolhe)** – App de apoio emocional, criado durante o primeiro ano do ensino médio, alinhado à ODS 11.
 
 
 ---
 
 ## 📊 Estatísticas
 
-![Neife's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=dark)
+![Neife's GitHub stats](https://github-readme-stats.vercel.app/api?username=neifejunior&show_icons=true&theme=dark)
 
 ---
 
