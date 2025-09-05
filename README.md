@@ -4,12 +4,9 @@
 </p>
 
 
-<!-- Nome animado -->
-<p align="left">
-  <a href="https://github.com/neifejunior">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=FFFFFF&center=false&vCenter=true&width=300&lines=Sou+o+Neife+Junior+:);Seja+bem-vindo!" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Gradiente + animação juntos -->
+<img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/gradient-typing.svg" width="100%" alt="Seja bem-vindo (typing over gradient)" />
+
 
 
 - 💻 **Auxiliar de TI** na **Eldorado Brasil Celulose**  
