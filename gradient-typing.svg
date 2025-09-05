@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- gradient background -->
+  <rect width="100%" height="100%" fill="url(#fade)" filter="url(#soft)"/>
+
+  <!-- typing svg overlaid (left padding 24px, vertically centered) -->
+  <image href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=FFFFFF&center=false&vCenter=true&width=360&lines=Sou+o+Neife+Junior+%3A%29%3BSeja+bem-vindo%21" x="24" y="20" height="50" width="360" />
+</svg>
