@@ -7,7 +7,7 @@
 <!-- Nome animado -->
 <p align="left">
   <a href="https://github.com/neifejunior">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=000080&center=false&vCenter=true&width=300&lines=Sou+o+Neife+Junior+:);Seja+bem-vindo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=000000&center=false&vCenter=true&width=300&lines=Sou+o+Neife+Junior+:);Seja+bem-vindo!" alt="Typing SVG" />
   </a>
 </p>
 
