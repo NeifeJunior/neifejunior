@@ -3,6 +3,11 @@
   <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/capa.png" alt="Banner" />
 </p>
 
+<!-- Degradê -->
+<p align="center">
+  <img src="https://svgur.com/i/13k7.svg" alt="Degradê" width="100%" height="40px" />
+</p>
+
 
 <!-- Nome animado -->
 <p align="left">
