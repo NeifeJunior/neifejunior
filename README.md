@@ -21,9 +21,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
+<p align="left">
   <!-- Views -->
   <img src="https://komarev.com/ghpvc/?username=neifejunior&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
