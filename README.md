@@ -4,8 +4,14 @@
 </p>
 
 
-<!-- Gradiente + animação juntos -->
-<img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/gradient-typing.svg" width="100%" alt="Seja bem-vindo (typing over gradient)" />
+<!-- Gradiente + animação -->
+<p align="center" style="position: relative;">
+  <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/capa.png" width="100%" alt="Banner" />
+</p>
+
+<p align="center" style="position: relative; margin-top: -80px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=500&color=FFFFFF&center=false&vCenter=true&width=400&lines=Sou+o+Neife+Junior+%3A%29%3B;Seja+bem-vindo!" alt="Typing SVG sobre gradiente" />
+</p>
 
 
 
