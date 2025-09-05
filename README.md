@@ -5,7 +5,7 @@
 
 <!-- Degradê -->
 <p align="center">
-  <img src="https://svgur.com/i/13k7.svg" alt="Degradê" width="100%" height="40px" />
+  <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/degrade-dark.svg" alt="Degradê" width="100%" height="80" />
 </p>
 
 
