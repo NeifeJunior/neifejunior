@@ -4,9 +4,13 @@
 </p>
 
 
----
+<!-- Nome animado -->
+<p align="right">
+  <a href="https://github.com/neifejunior">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=false&vCenter=true&random=false&width=280&lines=Neife+Junior;Seja+bem-vindo!" alt="Typing SVG" />
+  </a>
+</p>
 
-<h1 align="center">Neife Junior</h1>
 
 - 💻 **Auxiliar de TI** na **Eldorado Brasil Celulose**  
 - 🎓 Estudante no *Instituto J&F – GerminareTech*  
