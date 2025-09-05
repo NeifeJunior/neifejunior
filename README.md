@@ -1,58 +1,58 @@
-# Olá! Eu sou o Neife Junior 👋
-
-## Sobre mim
-Tenho 17 anos e estudo no *Instituto J&F – GerminareTech*. Atualmente atuo como **Auxiliar de TI na Eldorado Brasil Celulose**, desenvolvendo em **SAP ABAP**, com experiência em **QlikSense**, **Automation Anywhere** e **Oracle (PL/SQL)**.
-
-Sou apaixonado por tecnologia, inovação e pelo impacto social que soluções digitais podem gerar. Já participei de projetos como **Acolhe** (saúde mental – ExpoTech 2023) e **Leontis** (arte e IA – ExpoTech 2024). Sempre buscando aprender mais e criar soluções com impacto.
-
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neifejunior/neifejunior/main/capa.png" alt="Banner" />
+</p>
 
 ---
 
-## 📊 Estatísticas
+<h1 align="center">Neife Junior</h1>
 
-<!-- Card de visualizações de perfil -->
-![Profile Views](https://komarev.com/ghpvc/?username=neifejunior&style=flat)
-
-<!-- Card: GitHub Readme Stats (resumo completo) -->
-![Neife's GitHub stats](https://github-readme-stats.vercel.app/api?username=neifejunior&show_icons=true&theme=dark)
-
-<!-- Card: Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neifejunior&layout=compact&theme=dark)
-
-<!-- Card: Streak (opcional) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neifejunior&theme=dark)
+- 💻 **Auxiliar de TI** na **Eldorado Brasil Celulose**  
+- 🎓 Estudante no *Instituto J&F – GerminareTech*  
+- 🚀 Experiência com **SAP ABAP**, QlikSense, Automation Anywhere, Oracle (PL/SQL)  
+- 📱 Participante dos projetos **Acolhe** (ExpoTech 2023) e **Leontis** (ExpoTech 2024)  
+- 🎂 2007 • 17 anos  
+- 🙋‍♂️ Pronomes: **ele/dele**  
 
 ---
 
----
+## 📊 Estatísticas do GitHub  
 
-## 🚀 Tecnologias com as quais trabalho
+<p align="center">
+  <!-- Views -->
+  <img src="https://komarev.com/ghpvc/?username=neifejunior&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
-| Backend        | Automação           | Banco de Dados      | Outros                                |
-|----------------|---------------------|----------------------|---------------------------------------|
-| SAP ABAP       | Automation Anywhere | PostgreSQL, MongoDB | Java, Python, TensorFlow, AWS         |
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=neifejunior&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neifejunior&layout=compact&theme=radical&hide_border=true" height="180em"/>
+</p>
 
----
-
-## 🌟 Projetos em destaque
-
-- **[Leontis](https://github.com/leontis2024)** – App que facilita o acesso ao mundo da arte com IA de reconhecimento de imagens.
-- **[Acolhe](https://github.com/Acolhe)** – App de apoio emocional, criado durante o primeiro ano do ensino médio, alinhado à ODS 11.
-
-
----
-
-## 📊 Estatísticas
-
-![Neife's GitHub stats](https://github-readme-stats.vercel.app/api?username=neifejunior&show_icons=true&theme=dark)
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neifejunior&theme=radical&hide_border=true" height="180em"/>
+</p>
 
 ---
 
-## 📫 Como me encontrar
+## 🛠 Tecnologias
 
-- [LinkedIn](https://www.linkedin.com/in/neife-junior-323158276/)  
-- [E-mail](neifejunior@gmail.com)
+<p align="center">
+  SAP ABAP • QlikSense • Automation Anywhere • PL/SQL • Python • Java • TensorFlow • AWS
+</p>
 
 ---
 
-> “A tecnologia aliada à curiosidade é o que move meu aprendizado todos os dias.”
+## 📫 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neife-junior-323158276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:neifejunior@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
